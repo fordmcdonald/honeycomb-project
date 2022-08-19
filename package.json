@@ -2,8 +2,8 @@
   "name": "honeycomb",
   "description": "all-in-one task starter app with jsPsych + React + Electron + psiturk ",
   "author": {
-    "name": "Brown CCV",
-    "email": "ccv-bot@brown.edu",
+    "name": "Ford McDonald",
+    "email": "ford_mcdonald@brown.edu",
     "url": "ccv.brown.edu"
   },
   "version": "2.3.1",
@@ -11,7 +11,7 @@
   "private": true,
   "main": "public/electron.js",
   "homepage": ".",
-  "repository": "https://github.com/brown-ccv/honeycomb",
+  "repository": "https://github.com/fordmcdonald/honeycomb-project",
   "dependencies": {
     "@brown-ccv/behavioral-task-trials": "^2.0.0",
     "@fortawesome/fontawesome-free": "^5.9.0",
